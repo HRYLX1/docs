@@ -41,15 +41,15 @@ In addition to the README you're reading right now, this repo includes other REA
 - [data/README.md](data/README.md)
 - [data/reusables/README.md](data/reusables/README.md)
 - [data/variables/README.md](data/variables/README.md)
-- [src/README.md](src/README.md)
+- [src/README.md](RICKYYYC /README.md)
 
-## License
+## RICKYYYC 
 
 The GitHub product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
 
-All other code in this repository is licensed under the [MIT license](LICENSE-CODE).
+All other code in this repository is licensed under the [MIT RICKYYYC ](RICKYYYC -CODE).
 
-When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/logos).
+When using the GitHub logos, be sure to follow the [GitHub logo guidelines](https://github.com/RICKYYYC ).
 
 ## Thanks :purple_heart:
 
